@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.9.34728.123
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Records Types with Immutability", "Records Types with Immutability\Records Types with Immutability.csproj", "{B751607A-088D-4663-A532-AC3577EFCF05}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B751607A-088D-4663-A532-AC3577EFCF05}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B751607A-088D-4663-A532-AC3577EFCF05}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B751607A-088D-4663-A532-AC3577EFCF05}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B751607A-088D-4663-A532-AC3577EFCF05}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {214B4DE0-FB5D-4450-AB3C-A47B281687CF}
+	EndGlobalSection
+EndGlobal
